@@ -1,9 +1,3 @@
-# Edit .gitignore file
-nano .gitignore
-```
-
-Add these lines:
-```
 # IDE
 .idea/
 .vscode/
