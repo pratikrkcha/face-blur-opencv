@@ -1,0 +1,42 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# IDE - PyCharm / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Project specific
+bin/
+include/
+lib/
+lib64/
+pyvenv.cfg
