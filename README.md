@@ -2,6 +2,9 @@
 
 A real-time face detection and blur application built with OpenCV and Python. Automatically detects and blurs faces in live camera feed for privacy protection.
 
+<img width="640" height="539" alt="image" src="https://github.com/user-attachments/assets/d61ad4e5-a06d-4723-95e8-8ebdb32cbeea" />
+
+
 ## Features
 
 - **Real-time Face Detection** using Haar Cascade classifier
